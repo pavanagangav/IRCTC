@@ -1,0 +1,534 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+.mainpart{background-color: white;height: 100px;/* width: 0px; */}
+.logo1{
+
+float: left;
+}
+.logo2{
+    
+float: right;
+}
+.btn{  
+border: 0px;   
+background-color: #213d77;
+    
+color: white;
+    
+text-transform: capitalize;
+    
+padding: 13px;
+    
+border-radius: 4px;
+    
+margin-left: 162px;
+    
+margin-top: 19px;
+}
+.main1 a{
+    text-decoration: none;
+    padding: 26px;
+    font-size: 16px;
+    font-weight: 86px;
+    color: black;
+}
+.main2{
+    
+margin-top: 20px;
+}
+ 
+ .btn2{
+    border: 0px;
+    background-color: #a9a4a4;
+    color: black;
+    text-transform: capitalize;
+    padding: 8px 27px 8px;
+    border-radius: 6px;
+    margin-left: 28px;
+    margin-top: 19px;
+ }
+ /* .main1 a:hover{
+    text-decoration: underline black;
+   
+ } */
+  .home{
+    
+margin-left: 292px;
+  }
+  .btn3{
+    border: 0px;
+    background-color: #213d77;
+    color: white;
+    text-transform: capitalize;
+    padding: 5px;
+    border-radius: 3px;
+    margin-left: 15px;
+    margin-top: -8px;
+  }
+  .main2 a{
+    
+text-decoration: none;
+    
+margin-left: 7px;
+    
+padding: 2px;
+    
+color: black;
+  }
+  .img{
+    background-image: url(assests/train.png);
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 566px;
+    /* margin: 0; */
+    /* border: 0; */
+    margin-top: 14px;
+    background-size: cover;
+    position: absolute;
+  }
+  .main3{
+    
+
+  }
+  .form{
+  
+background-color: white;
+  
+height: 379px;
+  
+width: 590px;
+  
+margin-left: 95px;
+  
+margin-top: 71px;
+}
+  .pnr{
+    float: left;
+
+}
+  .pnr a{
+text-decoration: none;
+
+color: white;
+
+font-size: 15px;
+}
+  .pnr i{
+
+margin-left: -57px;
+
+margin-right: 17px;
+
+height: 20px;
+
+width: 37px;
+
+padding: 5px;
+
+font-size: 16px;
+
+text-transform: uppercase;
+}
+.pnr button{
+
+background-color: #213d77;
+
+/* color: white; */
+
+border: 0;
+
+border-radius: 2px;
+
+width: 283px;
+
+/* margin-left: 24px; */
+
+margin-right: 24px;
+}
+.chat{
+
+}
+  .chat a{
+text-decoration: none;
+
+color: white;
+
+font-size: 15px;
+}
+  .chat i{
+
+margin-left: -57px;
+
+margin-right: 17px;
+
+height: 20px;
+
+width: 37px;
+
+padding: 5px;
+
+font-size: 16px;
+
+text-transform: uppercase;
+}
+.chat button{
+
+background-color: #213d77;
+
+/* color: white; */
+
+border: 0;
+
+border-radius: 2px;
+
+width: 283px;
+
+/* margin-right: 523px; */
+}
+.book{
+
+text-align: center;
+
+margin-top: 16px;
+}
+.book h3{
+  
+font-size: 31px;
+  
+color: #2f4676;
+}
+.from{
+
+float: left;
+
+margin-right: 222px;
+}
+.from input{
+
+position: absolute;
+
+width: 287px;
+
+height: 27px;
+
+margin-top: 9px;
+
+margin-left: 15px;
+}
+.from i{
+
+position: relative;
+
+margin-top: 14px;
+
+margin-left: 24px;
+}
+.from label{
+  position: relative;
+  margin-left: 25px;
+}
+.from input:focus~label{
+top:-20px
+}
+.date{
+
+}
+.date input{
+  position: absolute;
+  width: 242px;
+  height: 27px;
+  margin-top: 9px;
+}
+.date label{
+  position: relative;
+  margin-left: 25px;
+}
+
+.arrow{
+
+margin-top: 48px;
+
+margin-left: 126px;
+
+border: 2px;
+
+background-color: #d2dae9;
+
+width: 20px;
+
+height: 20px;
+
+border-radius: 25px;
+
+padding: 3px;
+}
+.arrow i{
+  
+margin-left: 4px;
+  
+margin-top: 2px;
+}
+.to{
+
+float: left;
+
+margin-right: 222px;
+
+margin-left: 15px;
+
+}
+  .to input{
+  
+  position: absolute;
+  
+  width: 287px;
+  
+  height: 27px;
+  
+  margin-top: 9px;
+  }
+  .to i{
+  
+  position: relative;
+  
+  margin-top: 14px;
+  
+  margin-left: 7px;
+  }
+  .to label{
+    position: relative;
+    margin-left: 25px;
+  }
+ .to input:focus~label{
+  top: -20px;
+ }
+ 
+  .bet i{
+    
+position: absolute;
+    
+margin-left: 33px;
+    
+margin-right: 34px;
+    
+margin-top: 13px;
+  }
+  
+  .bet{
+
+    /* margin-left: 254px; */
+    
+    position: relative;
+    }
+      .bet select{
+    
+    /* position: absolute; */
+    
+    padding: 7px;
+    
+    margin-left: 24px;
+    
+    padding: 7px 50px 4px 27px;
+    
+    margin-top: 6px;
+    }
+      .bet select option{
+    
+      }
+     
+      .general i{
+    
+position: absolute;
+    
+margin-left: 6px;
+    
+margin-right: 34px;
+    
+margin-top: 13px;
+    
+}
+          
+          .general{
+        
+margin-left: 15px;
+        
+position: relative;
+        
+margin-top: 22px;
+        
+}
+              .general select{
+            
+/* position: absolute; */
+            
+padding: 7px;
+            
+/* margin-left: 24px; */
+            
+padding: 7px 50px 4px 27px;
+            
+margin-top: 6px;
+            }
+              .general select option{
+            
+              }
+              .check{
+
+margin-left: 20px;
+
+margin-top: 13px;
+
+float: left;
+
+margin-right: 19px;
+}
+              .check input{
+
+color: #082b71;
+
+background-color: 082b71;
+
+}
+              .check label{
+                
+color: #13274d;
+                
+text-transform: capitalize;
+                
+font-size: 16px;
+                
+font-weight: 97px;
+                
+              }
+              .check1{
+
+                margin-left: 20px;
+                
+                margin-top: 13px;
+                
+                }
+                              .check1 input{
+                
+                color: #082b71;
+                
+                background-color: 082b71;
+                
+                }
+                              .check1 label{
+                                
+                color: #13274d;
+                                
+                text-transform: capitalize;
+                                
+                font-size: 16px;
+                                
+                font-weight: 97px;
+                                
+                              }
+                              .check2{
+
+margin-left: 20px;
+
+margin-top: 13px;
+
+float: left;
+
+margin-right: 52px;
+
+}
+                                              .check2 input{
+                                
+                                color: #082b71;
+                                
+                                background-color: 082b71;
+                                
+                                }
+                                              .check2 label{
+                                                
+                                color: #13274d;
+                                                
+                                text-transform: capitalize;
+                                                
+                                font-size: 16px;
+                                                
+                                font-weight: 97px;
+                                                
+                                              }
+                                              .check3{
+
+                                                margin-left: 20px;
+                                                
+                                                margin-top: 13px;
+                                                
+                                                }
+                                                              .check3 input{
+                                                
+                                                color: #082b71;
+                                                
+                                                background-color: 082b71;
+                                                
+                                                }
+                                                              .check3 label{
+                                                                
+                                                color: #13274d;
+                                                                
+                                                text-transform: capitalize;
+                                                                
+                                                font-size: 16px;
+                                                                
+                                                font-weight: 97px;
+                                                                
+                                                              }
+                                                              .btn1{
+                                                                border: 0px;
+                                                                background-color: orange;
+                                                                padding: 11px;
+                                                                border-radius: 4px;
+                                                                margin-left: 21px;
+                                                                margin-top: 17px;
+                                                                width: 125px;
+                                                                }
+                                                                .button{
+                                                                  border: 0px;
+                                                                  background-color: orange;
+                                                                  padding: 11px;
+                                                                  border-radius: 4px;
+                                                                  margin-left: 221px;
+                                                                  margin-top: 17px;
+                                                                  width: 196px;
+                                                                  }
+                                                                  .small{
+
+background-color: white;
+
+height: 92px;
+
+width: 591px;
+
+margin-left: 94px;
+
+margin-top: 9px;
+}
+                                                                  .sm{
+
+                                                                  }
+                                                                  .sm h5{
+
+color: blue;
+
+float: left;
+}
+.sm a{
+  color: #49849d;
+  text-decoration: none;
+}
+.sm h3{
+  color: red;
+  text-align: center;
+}
+.la{
+  text-align: center;
+}
